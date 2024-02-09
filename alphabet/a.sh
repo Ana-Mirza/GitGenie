@@ -8,41 +8,41 @@ git add .
 git commit -m "The idea has merit."
 
 # /..
-git commit --amend --no-edit --date "22/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-22 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "23/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-23 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "24/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-24 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "25/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-25 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "26/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-26 20:19:19 +0200"
 git push -f origin main
 
 # ../-..
 
-git commit --amend --no-edit --date "29/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-29 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "31/01/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-01-31 20:19:19 +0200"
 git push -f origin main
 
 # ../-\..
-git commit --amend --no-edit --date "5/02/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-02-05 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "6/02/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-02-06 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "7/02/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-02-07 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "8/02/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-02-08 20:19:19 +0200"
 git push -f origin main
 
-git commit --amend --no-edit --date "9/02/24 20:19:19 +0200"
+git commit --amend --no-edit --date "2024-02-09 20:19:19 +0200"
 git push -f origin main
