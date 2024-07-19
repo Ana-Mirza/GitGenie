@@ -17,6 +17,10 @@ In case you missed a commit or want to start the commit history from the beginni
 
 ```$ git push -f```
 
+<<<<<<< HEAD
 ## First approach -- 17 July 2024
 
 * Created genie.sh executable file and made it read a phrase as input
+=======
+## Overview
+>>>>>>> f22cb4d (Add genie script)
