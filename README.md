@@ -17,11 +17,10 @@ In case you missed a commit or want to start the commit history from the beginni
 
 ```$ git push -f```
 
-Or just use the following command:
+Or just use:
 
 ```$ git commit --amend --no-edit --date "17/08/24 20:19:19 +0200"```
 
 ## First approach -- 17 July 2024
 
 * Created genie.sh executable file and made it read a phrase as input
-## Overview

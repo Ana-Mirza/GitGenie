@@ -1,11 +1,17 @@
 #!/usr/bin/env bash
 
-#echo "Enter a word/phrase: "
-#read phrase
+echo "Yo, Rugman! Haven't Seen You In A Few Millennia. Give Me Some Tassel."
+read phrase
 
-#echo "You entered: ${phrase}"
+# Enter start date for the drawing
+echo "When do you want to go in time?"
+read date
+
+echo "Let's make some magic!"
 
 # Create commit
 git add .
-git commit -m "Comment unused variable"
+git commit -m "The idea has merit."
 git push
+
+echo "You Ain't Never Had A Friend Like Me!"
