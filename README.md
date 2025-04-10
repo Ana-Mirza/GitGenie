@@ -28,7 +28,7 @@ $ git push -f
 Or if haste is your wish, simply command:
 
 ```bash
-$ git commit --amend --no-edit --date "17/08/24 20:19:19 +0200"
+$ git commit --amend --no-edit --date "YYYY-MM-DD HH:MM:SS"
 ```
 
 The Genie bends to your will, effortlessly rewriting time itself.
@@ -40,6 +40,9 @@ Long ago, on a fateful day in July, the Genie took its first breath. A mystical 
 ## The Genie’s New Spell — 22nd January 2025
 
 Today, the Genie’s magic has grown even stronger! A folder has been added, enabling the drawing of alphabet letters using the program. With this enhancement, the Genie’s artistry reaches new heights, granting users the ability to craft commits in even more creative forms.
+
+## The Genie's First Letter — 10th April 2025
+The magic grows! The first iteration of the letter *A* has been conjured into existence. By running the *a.sh* script, the Genie now commits updates that form the shape of an 'A' on your git graph. While this initial version is hardcoded, future enchantments will make it dynamic, allowing it to adapt based on the starting date received from the main program. The foundations are laid for a spellbinding alphabet of commit art!
 
 So, noble traveler, take this tool, wield its might, and may your commit histories shine brighter than the Cave of Wonders. But remember—use the Genie’s gifts with honor and care, lest you disturb the balance of the coding cosmos.
 
